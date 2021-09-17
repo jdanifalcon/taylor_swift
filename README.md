@@ -1,5 +1,5 @@
 # Análisis de texto y visualización de datos con canciones de Taylor Swift
-Con solo tres días para el tan esperado séptimo álbum de estudio de Taylor Swift, también conocido como TS7, también conocido como Lover, hay mucho de qué emocionarse. Y como no hay nada que me guste más durante la semana anterior al lanzamiento de un álbum de Taylor que escuchar una y otra vez todas sus viejas canciones, pensé que también podría ir un poco más lejos esta vez y profundizar en sus álbumes anteriores (¿he mencionado que estoy muy emocionado?). Así que es hora de compartir con ustedes lo que he estado haciendo durante los últimos días: un tutorial no tan corto sobre análisis de texto y visualización de datos con las letras de Taylor Swift.  
+Este taller para el análisis de texto y visualización, se quiere enfocar de una manera creativa en los álbumes de estudio de Taylor Swift. Así que es hora de compartir con ustedes lo que he estado haciendo durante los últimos días: un tutorial no tan corto sobre análisis de texto y visualización de datos con las letras de Taylor Swift.  
 
 Para ser honesto, todo comenzó como un proyecto mucho menos ambicioso. Tenía sus letras en mi computadora portátil y pensé que podría hacer un par de bonitas tramas rosas contando palabras. Pero esta mujer me inspira demasiado, las ideas seguían fluyendo y, de repente, todo este análisis de Taylor Swift estaba completamente fuera de control. Para tratar de mantener un poco de orden, estos son algunos de los temas que cubriré a continuación:
 Usando el paquete genius para descargar letras
@@ -8,4 +8,4 @@ Usar ggplot para crear gráficos de barras con brillo (no puedes imaginar lo emo
 Realiza un análisis de sentimiento básico en las letras.
 Comprueba en qué medida se relacionan sus álbumes anteriores entre ellos. Y tramando eso, por supuesto
 Y por último, pero no menos importante, y tal vez mi parte favorita ... calcularemos la correlación entre todas sus canciones para trazar un mapa de red de la forma en que se relacionan entre sí.
-(Recordatorio amable: podrás aplicar esto a cualquier tipo de texto que desees. Sin embargo, no será tan genial)
+(Recordatorio amable: podrás aplicar esto a cualquier tipo de texto que desees. Sin embargo, tienes que adaptarlo a tus necesidades)
